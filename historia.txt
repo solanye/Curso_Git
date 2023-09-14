@@ -1,6 +1,4 @@
 Esta es la historia, y estoy intentando editar desde vim como editor 
 de código.
 
-Este es un nuevo cambio para probar el commi
-
-Este es un nuevo cambio para probar el committ
+Este es un nuevo cambio para probar el commit
